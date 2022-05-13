@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  justify-content: center;
+  padding-top: 5%;
+  font-size: 30px;
+}
+
+#output-screen{
+  background-color: rgb(211, 247, 247);
+width:30%;
+height:70px;
+
+}
+
+
+#delete{
+width: 20%;
+height:70px;
+}
+
+.equal{
+  width: 10%;
+  height:70px;
+}
+
+#one,#one,#two,#three,#four,#five,#mul,#plus,#minus,#divs,#six,#seven,#zero,#eight,#nine{
+  width:10%;
+  height:70px;
+}
+#percn{
+  width:10%;
+  height:70px;
+}
